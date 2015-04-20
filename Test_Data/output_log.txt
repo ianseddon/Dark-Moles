@@ -1,0 +1,61 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1083]
+    Renderer: AMD Radeon HD 6320 Graphics
+    Vendor:   ATI
+    VRAM:     1165 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ian\Dropbox\21_03_14 Ludum Dare - Demake\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ian\Dropbox\21_03_14 Ludum Dare - Demake\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ian\Dropbox\21_03_14 Ludum Dare - Demake\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ian\Dropbox\21_03_14 Ludum Dare - Demake\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.510 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+UnloadTime: 25.318588 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2942.
+Total: 4.528750 ms (FindLiveObjects: 0.469542 ms CreateObjectMapping: 0.058459 ms MarkObjects: 2.345845 ms  DeleteObjects: 0.285456 ms)
+
+UnloadTime: 8.938716 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2947.
+Total: 3.069127 ms (FindLiveObjects: 0.503747 ms CreateObjectMapping: 0.089555 ms MarkObjects: 0.775522 ms  DeleteObjects: 0.029851 ms)
+
+Hit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 6.590383 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2950.
+Total: 2.464630 ms (FindLiveObjects: 0.417923 ms CreateObjectMapping: 0.086445 ms MarkObjects: 0.620044 ms  DeleteObjects: 0.024876 ms)
+
+Hit
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 6.934299 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2953.
+Total: 2.523711 ms (FindLiveObjects: 0.431605 ms CreateObjectMapping: 0.100749 ms MarkObjects: 0.625641 ms  DeleteObjects: 0.024876 ms)
+
+UnloadTime: 7.316152 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2956.
+Total: 2.519980 ms (FindLiveObjects: 0.439690 ms CreateObjectMapping: 0.105724 ms MarkObjects: 0.647408 ms  DeleteObjects: 0.023632 ms)
+
+UnloadTime: 6.785662 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2959.
+Total: 2.637521 ms (FindLiveObjects: 0.422898 ms CreateObjectMapping: 0.116297 ms MarkObjects: 0.781119 ms  DeleteObjects: 0.027985 ms)
+

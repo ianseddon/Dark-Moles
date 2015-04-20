@@ -1,0 +1,23 @@
+Friday
+Initial player sprites
+Player attack, walk, idle animations
+
+Saturday
+
+Player gib animation
+Environment art
+5:00AM (Title2) - Completed initial title screen
+5:26AM - Added animations to title screen
+5:42AM - Completed menu - fade out animation, press any key to start game
+6:10AM - Wasted a bunch of time doing nothing... I mean "playtesting"
+6:12AM - Improved death screen and allowed user to skip delay by pressing a key
+6:15AM - Started work on BossHealth script, boss is currently a cube
+6:45AM - Boss healthbar is working, can take damage. Also fixed player attack vector to face the same direction as player
+7:35AM - Ate breakfast. Starting work on Boss AI
+8:03AM - Had to force quit MonoDevelop again. Working on Boss state machine
+8:55AM - Still working on boss state machine
+11:00AM - Naptime
+4:00PM - Naptime is over
+7:30PM - Finished mole sprite and idle animation
+8:02PM - Started work on jump animation
+8:30PM - Finished jump animation
